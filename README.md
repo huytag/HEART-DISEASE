@@ -15,7 +15,7 @@ Chuẩn hóa dữ liệu từ bộ dữ liệu  [Tại đây](https://archive.ic
 
 ## GUI của chương trình được viết bằng tinker
 
-![enter image description here](https://user-images.githubusercontent.com/75923948/109263753-6439aa80-7836-11eb-9b5f-eeb848c2bbdc.png)
+![enter image description here](https://user-images.githubusercontent.com/75923948/120035687-2d3b8680-c029-11eb-976b-b3c550244039.png)
 
 
 ## Tổng Hợp Các Link Download
