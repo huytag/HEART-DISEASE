@@ -9,12 +9,9 @@
     
 ## Từng bước thực hiện trong thuật toán:
 
-Dựa trên thuât toán A-NN (K-NEAREST NEIGHBOR)
-Dữ liệu thu thập tay từ các trang bán hàng -> Chuẩn hóa dữ liệu tiền xử lý dữ liệu -> Dùng K_NN để tìm các K gần nhất từ các thông tin thu thập -> Xác định K và đưa ra các láng giềng gần nhất -> Từ K đã xác định đưa ra mức giá cho các loại Smart phone tương ứng
+Dựa trên thuât toán A-NN (Artificial Neural Network)
+Chuẩn hóa dữ liệu từ bộ dữ liệu  [Tại đây](https://archive.ics.uci.edu/ml/datasets/heart+disease) -> tiền xử lý dữ liệu -> áp dụng mô hình ANN vào bài toán -> Dùng model ANN để xây dựng ứng dụng chuẩn đoán bệnh tim
 
-## Mô hình tổng quát của thuật toán:
-
-![enter image description here](https://user-images.githubusercontent.com/75923948/109263199-7109ce80-7835-11eb-8342-5ca6762f62ca.png)
 
 ## GUI của chương trình được viết bằng tinker
 
